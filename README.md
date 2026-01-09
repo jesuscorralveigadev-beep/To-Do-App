@@ -92,7 +92,7 @@ while maintaining usability and clarity.
 
 ## Screenshots
 
-![To-Do-App/todo_portfolio_assets/ScreenShoot.png]
+!To-Do-App/todo_portfolio_assets/ScreenShoot.png
 
 ---
 
